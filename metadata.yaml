@@ -1,0 +1,33 @@
+_repo: Fox-Trappingand-Shoot---A-Valuable-Book-for-Trappers_34076
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34076-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harding, A. R. (Arthur Robert)
+    alias: Harding, Arthur Robert
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '36678'
+    url: http://www.gutenberg.org/2009/agents/36678
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Robert_Harding
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Trapping
+gutenberg_issued: '2010-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34076'
+  lccn: '06042413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fox trapping'
+- !lcc 'SK'
+title: "Fox Trapping: A Book of Instruction Telling How to Trap, Snare, Poison and\
+  \ Shoot\r\nA Valuable Book for Trappers"
+url: http://www.gutenberg.org/ebooks/34076
